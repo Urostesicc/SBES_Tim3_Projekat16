@@ -1,0 +1,13 @@
+C:\UsluzniProjekti\SBES\ProjektniZadatak16\ProjektniZadatak16\SecurityManager\bin\Debug\SecurityManager.dll
+C:\UsluzniProjekti\SBES\ProjektniZadatak16\ProjektniZadatak16\SecurityManager\bin\Debug\SecurityManager.pdb
+C:\UsluzniProjekti\SBES\ProjektniZadatak16\ProjektniZadatak16\SecurityManager\bin\Debug\AuditManager.dll
+C:\UsluzniProjekti\SBES\ProjektniZadatak16\ProjektniZadatak16\SecurityManager\bin\Debug\Contracts.dll
+C:\UsluzniProjekti\SBES\ProjektniZadatak16\ProjektniZadatak16\SecurityManager\bin\Debug\AuditManager.pdb
+C:\UsluzniProjekti\SBES\ProjektniZadatak16\ProjektniZadatak16\SecurityManager\bin\Debug\Contracts.pdb
+C:\UsluzniProjekti\SBES\ProjektniZadatak16\ProjektniZadatak16\SecurityManager\obj\Debug\SecurityManager.csprojAssemblyReference.cache
+C:\UsluzniProjekti\SBES\ProjektniZadatak16\ProjektniZadatak16\SecurityManager\obj\Debug\SecurityManager.RolesConfigFile.resources
+C:\UsluzniProjekti\SBES\ProjektniZadatak16\ProjektniZadatak16\SecurityManager\obj\Debug\SecurityManager.csproj.GenerateResource.cache
+C:\UsluzniProjekti\SBES\ProjektniZadatak16\ProjektniZadatak16\SecurityManager\obj\Debug\SecurityManager.csproj.CoreCompileInputs.cache
+C:\UsluzniProjekti\SBES\ProjektniZadatak16\ProjektniZadatak16\SecurityManager\obj\Debug\SecurityManager.csproj.CopyComplete
+C:\UsluzniProjekti\SBES\ProjektniZadatak16\ProjektniZadatak16\SecurityManager\obj\Debug\SecurityManager.dll
+C:\UsluzniProjekti\SBES\ProjektniZadatak16\ProjektniZadatak16\SecurityManager\obj\Debug\SecurityManager.pdb

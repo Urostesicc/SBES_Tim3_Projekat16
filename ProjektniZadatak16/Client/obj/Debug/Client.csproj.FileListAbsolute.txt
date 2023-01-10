@@ -1,0 +1,12 @@
+C:\UsluzniProjekti\SBES\ProjektniZadatak16\ProjektniZadatak16\Client\bin\Debug\Client.exe.config
+C:\UsluzniProjekti\SBES\ProjektniZadatak16\ProjektniZadatak16\Client\bin\Debug\Client.exe
+C:\UsluzniProjekti\SBES\ProjektniZadatak16\ProjektniZadatak16\Client\bin\Debug\Client.pdb
+C:\UsluzniProjekti\SBES\ProjektniZadatak16\ProjektniZadatak16\Client\bin\Debug\Contracts.dll
+C:\UsluzniProjekti\SBES\ProjektniZadatak16\ProjektniZadatak16\Client\bin\Debug\SecurityManager.dll
+C:\UsluzniProjekti\SBES\ProjektniZadatak16\ProjektniZadatak16\Client\bin\Debug\Contracts.pdb
+C:\UsluzniProjekti\SBES\ProjektniZadatak16\ProjektniZadatak16\Client\bin\Debug\SecurityManager.pdb
+C:\UsluzniProjekti\SBES\ProjektniZadatak16\ProjektniZadatak16\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\UsluzniProjekti\SBES\ProjektniZadatak16\ProjektniZadatak16\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\UsluzniProjekti\SBES\ProjektniZadatak16\ProjektniZadatak16\Client\obj\Debug\Client.csproj.CopyComplete
+C:\UsluzniProjekti\SBES\ProjektniZadatak16\ProjektniZadatak16\Client\obj\Debug\Client.exe
+C:\UsluzniProjekti\SBES\ProjektniZadatak16\ProjektniZadatak16\Client\obj\Debug\Client.pdb

@@ -1,0 +1,6 @@
+C:\UsluzniProjekti\SBES\ProjektniZadatak16\ProjektniZadatak16\Contracts\bin\Debug\Contracts.dll
+C:\UsluzniProjekti\SBES\ProjektniZadatak16\ProjektniZadatak16\Contracts\bin\Debug\Contracts.pdb
+C:\UsluzniProjekti\SBES\ProjektniZadatak16\ProjektniZadatak16\Contracts\obj\Debug\Contracts.csproj.CoreCompileInputs.cache
+C:\UsluzniProjekti\SBES\ProjektniZadatak16\ProjektniZadatak16\Contracts\obj\Debug\Contracts.dll
+C:\UsluzniProjekti\SBES\ProjektniZadatak16\ProjektniZadatak16\Contracts\obj\Debug\Contracts.pdb
+C:\UsluzniProjekti\SBES\ProjektniZadatak16\ProjektniZadatak16\Contracts\obj\Debug\Contracts.csprojAssemblyReference.cache
