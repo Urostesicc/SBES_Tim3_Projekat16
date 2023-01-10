@@ -9,3 +9,12 @@ C:\UsluzniProjekti\SBES\ProjektniZadatak16\ProjektniZadatak16\AuditManager\obj\D
 C:\UsluzniProjekti\SBES\ProjektniZadatak16\ProjektniZadatak16\AuditManager\obj\Debug\AuditManager.csproj.CopyComplete
 C:\UsluzniProjekti\SBES\ProjektniZadatak16\ProjektniZadatak16\AuditManager\obj\Debug\AuditManager.dll
 C:\UsluzniProjekti\SBES\ProjektniZadatak16\ProjektniZadatak16\AuditManager\obj\Debug\AuditManager.pdb
+C:\Users\User\Desktop\sbes_projekat\SBES_Tim3_Projekat16\ProjektniZadatak16\AuditManager\bin\Debug\AuditManager.dll
+C:\Users\User\Desktop\sbes_projekat\SBES_Tim3_Projekat16\ProjektniZadatak16\AuditManager\bin\Debug\AuditManager.pdb
+C:\Users\User\Desktop\sbes_projekat\SBES_Tim3_Projekat16\ProjektniZadatak16\AuditManager\bin\Debug\Contracts.dll
+C:\Users\User\Desktop\sbes_projekat\SBES_Tim3_Projekat16\ProjektniZadatak16\AuditManager\bin\Debug\Contracts.pdb
+C:\Users\User\Desktop\sbes_projekat\SBES_Tim3_Projekat16\ProjektniZadatak16\AuditManager\obj\Debug\AuditManager.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\sbes_projekat\SBES_Tim3_Projekat16\ProjektniZadatak16\AuditManager\obj\Debug\AuditManager.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\sbes_projekat\SBES_Tim3_Projekat16\ProjektniZadatak16\AuditManager\obj\Debug\AuditManager.csproj.CopyComplete
+C:\Users\User\Desktop\sbes_projekat\SBES_Tim3_Projekat16\ProjektniZadatak16\AuditManager\obj\Debug\AuditManager.dll
+C:\Users\User\Desktop\sbes_projekat\SBES_Tim3_Projekat16\ProjektniZadatak16\AuditManager\obj\Debug\AuditManager.pdb
