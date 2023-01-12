@@ -12,3 +12,17 @@ C:\UsluzniProjekti\SBES\ProjektniZadatak16\ProjektniZadatak16\IntrusionDetection
 C:\UsluzniProjekti\SBES\ProjektniZadatak16\ProjektniZadatak16\IntrusionDetectionSystem\obj\Debug\IntrusionDetectionSystem.csproj.CopyComplete
 C:\UsluzniProjekti\SBES\ProjektniZadatak16\ProjektniZadatak16\IntrusionDetectionSystem\obj\Debug\IntrusionDetectionSystem.exe
 C:\UsluzniProjekti\SBES\ProjektniZadatak16\ProjektniZadatak16\IntrusionDetectionSystem\obj\Debug\IntrusionDetectionSystem.pdb
+C:\Users\User\Desktop\sbes_projekat\SBES_Tim3_Projekat16\ProjektniZadatak16\IntrusionDetectionSystem\bin\Debug\IntrusionDetectionSystem.exe.config
+C:\Users\User\Desktop\sbes_projekat\SBES_Tim3_Projekat16\ProjektniZadatak16\IntrusionDetectionSystem\bin\Debug\IntrusionDetectionSystem.exe
+C:\Users\User\Desktop\sbes_projekat\SBES_Tim3_Projekat16\ProjektniZadatak16\IntrusionDetectionSystem\bin\Debug\IntrusionDetectionSystem.pdb
+C:\Users\User\Desktop\sbes_projekat\SBES_Tim3_Projekat16\ProjektniZadatak16\IntrusionDetectionSystem\bin\Debug\CertificateManager.dll
+C:\Users\User\Desktop\sbes_projekat\SBES_Tim3_Projekat16\ProjektniZadatak16\IntrusionDetectionSystem\bin\Debug\Contracts.dll
+C:\Users\User\Desktop\sbes_projekat\SBES_Tim3_Projekat16\ProjektniZadatak16\IntrusionDetectionSystem\bin\Debug\SecurityManager.dll
+C:\Users\User\Desktop\sbes_projekat\SBES_Tim3_Projekat16\ProjektniZadatak16\IntrusionDetectionSystem\bin\Debug\CertificateManager.pdb
+C:\Users\User\Desktop\sbes_projekat\SBES_Tim3_Projekat16\ProjektniZadatak16\IntrusionDetectionSystem\bin\Debug\Contracts.pdb
+C:\Users\User\Desktop\sbes_projekat\SBES_Tim3_Projekat16\ProjektniZadatak16\IntrusionDetectionSystem\bin\Debug\SecurityManager.pdb
+C:\Users\User\Desktop\sbes_projekat\SBES_Tim3_Projekat16\ProjektniZadatak16\IntrusionDetectionSystem\obj\Debug\IntrusionDetectionSystem.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\sbes_projekat\SBES_Tim3_Projekat16\ProjektniZadatak16\IntrusionDetectionSystem\obj\Debug\IntrusionDetectionSystem.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\sbes_projekat\SBES_Tim3_Projekat16\ProjektniZadatak16\IntrusionDetectionSystem\obj\Debug\IntrusionDetectionSystem.csproj.CopyComplete
+C:\Users\User\Desktop\sbes_projekat\SBES_Tim3_Projekat16\ProjektniZadatak16\IntrusionDetectionSystem\obj\Debug\IntrusionDetectionSystem.exe
+C:\Users\User\Desktop\sbes_projekat\SBES_Tim3_Projekat16\ProjektniZadatak16\IntrusionDetectionSystem\obj\Debug\IntrusionDetectionSystem.pdb

@@ -18,3 +18,5 @@ C:\Users\User\Desktop\sbes_projekat\SBES_Tim3_Projekat16\ProjektniZadatak16\Audi
 C:\Users\User\Desktop\sbes_projekat\SBES_Tim3_Projekat16\ProjektniZadatak16\AuditManager\obj\Debug\AuditManager.csproj.CopyComplete
 C:\Users\User\Desktop\sbes_projekat\SBES_Tim3_Projekat16\ProjektniZadatak16\AuditManager\obj\Debug\AuditManager.dll
 C:\Users\User\Desktop\sbes_projekat\SBES_Tim3_Projekat16\ProjektniZadatak16\AuditManager\obj\Debug\AuditManager.pdb
+C:\Users\User\Desktop\sbes_projekat\SBES_Tim3_Projekat16\ProjektniZadatak16\AuditManager\obj\Debug\AuditManager.AuditEventFile.resources
+C:\Users\User\Desktop\sbes_projekat\SBES_Tim3_Projekat16\ProjektniZadatak16\AuditManager\obj\Debug\AuditManager.csproj.GenerateResource.cache
