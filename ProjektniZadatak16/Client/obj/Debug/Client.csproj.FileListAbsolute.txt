@@ -10,3 +10,15 @@ C:\UsluzniProjekti\SBES\ProjektniZadatak16\ProjektniZadatak16\Client\obj\Debug\C
 C:\UsluzniProjekti\SBES\ProjektniZadatak16\ProjektniZadatak16\Client\obj\Debug\Client.csproj.CopyComplete
 C:\UsluzniProjekti\SBES\ProjektniZadatak16\ProjektniZadatak16\Client\obj\Debug\Client.exe
 C:\UsluzniProjekti\SBES\ProjektniZadatak16\ProjektniZadatak16\Client\obj\Debug\Client.pdb
+C:\Users\User\Desktop\sbes_projekat\SBES_Tim3_Projekat16\ProjektniZadatak16\Client\bin\Debug\Client.exe.config
+C:\Users\User\Desktop\sbes_projekat\SBES_Tim3_Projekat16\ProjektniZadatak16\Client\bin\Debug\Client.exe
+C:\Users\User\Desktop\sbes_projekat\SBES_Tim3_Projekat16\ProjektniZadatak16\Client\bin\Debug\Client.pdb
+C:\Users\User\Desktop\sbes_projekat\SBES_Tim3_Projekat16\ProjektniZadatak16\Client\bin\Debug\Contracts.dll
+C:\Users\User\Desktop\sbes_projekat\SBES_Tim3_Projekat16\ProjektniZadatak16\Client\bin\Debug\SecurityManager.dll
+C:\Users\User\Desktop\sbes_projekat\SBES_Tim3_Projekat16\ProjektniZadatak16\Client\bin\Debug\Contracts.pdb
+C:\Users\User\Desktop\sbes_projekat\SBES_Tim3_Projekat16\ProjektniZadatak16\Client\bin\Debug\SecurityManager.pdb
+C:\Users\User\Desktop\sbes_projekat\SBES_Tim3_Projekat16\ProjektniZadatak16\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\sbes_projekat\SBES_Tim3_Projekat16\ProjektniZadatak16\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\sbes_projekat\SBES_Tim3_Projekat16\ProjektniZadatak16\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\User\Desktop\sbes_projekat\SBES_Tim3_Projekat16\ProjektniZadatak16\Client\obj\Debug\Client.exe
+C:\Users\User\Desktop\sbes_projekat\SBES_Tim3_Projekat16\ProjektniZadatak16\Client\obj\Debug\Client.pdb

@@ -42,7 +42,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Alarm.cs" />
+    <Compile Include="ConfigurationEntry.cs" />
+    <Compile Include="IClientCommunication.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Threat.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

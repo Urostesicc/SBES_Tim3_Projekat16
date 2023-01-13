@@ -4,3 +4,9 @@ C:\UsluzniProjekti\SBES\ProjektniZadatak16\ProjektniZadatak16\CertificateManager
 C:\UsluzniProjekti\SBES\ProjektniZadatak16\ProjektniZadatak16\CertificateManager\obj\Debug\CertificateManager.dll
 C:\UsluzniProjekti\SBES\ProjektniZadatak16\ProjektniZadatak16\CertificateManager\obj\Debug\CertificateManager.pdb
 C:\UsluzniProjekti\SBES\ProjektniZadatak16\ProjektniZadatak16\CertificateManager\obj\Debug\CertificateManager.csprojAssemblyReference.cache
+C:\Users\User\Desktop\sbes_projekat\SBES_Tim3_Projekat16\ProjektniZadatak16\CertificateManager\bin\Debug\CertificateManager.dll
+C:\Users\User\Desktop\sbes_projekat\SBES_Tim3_Projekat16\ProjektniZadatak16\CertificateManager\bin\Debug\CertificateManager.pdb
+C:\Users\User\Desktop\sbes_projekat\SBES_Tim3_Projekat16\ProjektniZadatak16\CertificateManager\obj\Debug\CertificateManager.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\sbes_projekat\SBES_Tim3_Projekat16\ProjektniZadatak16\CertificateManager\obj\Debug\CertificateManager.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\sbes_projekat\SBES_Tim3_Projekat16\ProjektniZadatak16\CertificateManager\obj\Debug\CertificateManager.dll
+C:\Users\User\Desktop\sbes_projekat\SBES_Tim3_Projekat16\ProjektniZadatak16\CertificateManager\obj\Debug\CertificateManager.pdb
