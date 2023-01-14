@@ -22,3 +22,5 @@ C:\Users\User\Desktop\sbes_projekat\SBES_Tim3_Projekat16\ProjektniZadatak16\Secu
 C:\Users\User\Desktop\sbes_projekat\SBES_Tim3_Projekat16\ProjektniZadatak16\SecurityManager\obj\Debug\SecurityManager.RolesConfigFile.resources
 C:\Users\User\Desktop\sbes_projekat\SBES_Tim3_Projekat16\ProjektniZadatak16\SecurityManager\obj\Debug\SecurityManager.csproj.GenerateResource.cache
 C:\Users\User\Desktop\sbes_projekat\SBES_Tim3_Projekat16\ProjektniZadatak16\SecurityManager\obj\Debug\SecurityManager.csproj.CopyComplete
+C:\Users\User\Desktop\sbes_projekat\SBES_Tim3_Projekat16\ProjektniZadatak16\SecurityManager\bin\Debug\Contracts.dll
+C:\Users\User\Desktop\sbes_projekat\SBES_Tim3_Projekat16\ProjektniZadatak16\SecurityManager\bin\Debug\Contracts.pdb

@@ -117,7 +117,5 @@ namespace Client
                 Console.WriteLine();
             }
         }
-    }
-            
-    }
+    }           
 }
